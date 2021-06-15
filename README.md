@@ -8,7 +8,6 @@
  - 📍 From PR living in São Paulo
 - ✨ Learning is continuous and there will always be new challenges to be overcome.
 
-<br> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markomaciell/)](https://www.linkedin.com/in/markomaciell/) ![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/maciel_marko/)
 
 
