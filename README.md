@@ -1,8 +1,8 @@
-<img align="right" src="" width="350" />
+<img align="right" src="./imagem/computer.png" width="200" />
 
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
-
+<br>
 - 🚀 I am currently studying Systems Development Analysis at ([FIAP](https://www.fiap.com.br/))
 - 💻  Future Developer Full Stack
  - 📍 From PR living in São Paulo
