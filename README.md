@@ -1,9 +1,9 @@
-<img align="right" src="./imagem/computer.png" width="200"/>
+<img align="right" src="./imagem/home-notebook.png" width="200"/>
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
 - 🚀 I am currently studying Systems Development Analysis at [FIAP](https://www.fiap.com.br/)
 - 💻  Future Developer Full Stack
- - 📍 From PR living in São Paulo
+- 📍 From PR living in São Paulo
 - ✨ Learning is continuous and there will always be new challenges to be overcome.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markomaciell/)](https://www.linkedin.com/in/markomaciell/) ![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/maciel_marko/)
