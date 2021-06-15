@@ -1,6 +1,6 @@
 <img align="right" src="./imagem/home-notebook.png" width="200"/>
 
-### Hey! Welcome to my profile! How is it going? 👋🥰
+### Hey! Welcome to my profile! How is it going? 👋
 
 - 🚀 I am currently studying Systems Development Analysis at [FIAP](https://www.fiap.com.br/)
 - 💻  Future Developer Full Stack
