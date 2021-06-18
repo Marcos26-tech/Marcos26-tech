@@ -12,18 +12,16 @@
 ![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maciel_marko/)
 ](https://www.instagram.com/maciel_marko/) 
 
-### Actually, I'm learning:
+### I'm learning:
 <div style="display: inline_block" width="auto" height="auto">
-  <img align="center" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" height="30" width="90" src="https://img.shields.io/badge/HTML5-ED8B00?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" height="30" width="130" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" height="30" width="110" src="https://img.shields.io/badge/Bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" height="30" width="110" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" height="30" width="130" src="https://img.shields.io/badge/JavaScript-e8f722?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" height="30" width="110" src="https://img.shields.io/badge/Bootstrap-0c8b01?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" height="30" width="90" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" height="30" width="110" src="https://img.shields.io/badge/Python-030fb8?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br> 
 
 ### Stats and Languages:
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=Dracula"/>    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=onedark"/>
-
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/>  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
