@@ -23,5 +23,5 @@
 </div>
 <br> 
 
-### Stats and Languages:
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
+### Status and Languages:
+<img height="150em" src="https://github-readme-status.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
