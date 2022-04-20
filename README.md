@@ -43,11 +43,9 @@
 <h3 align="center"> :pushpin: Entre em contato: </h3>
 
 <div align="center">
-    
-[! [Crachá do Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markomaciell/)] (https://www.linkedin.com/in/markomaciell/) [
-! [Crachá do Instagram] (https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maciel_marko/)
-](https://www.instagram.com/maciel_marko/) 
-[! [Crachá do Gmail] (https://img.shields.io/badge/GMAIL--ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&link=mailto:gustavoyamashita49@gmail.com)] (mailto:gustavoyamashita49@gmail.com) &nbsp;
+   [! [Crachá do Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markomaciell/)] (https://www.linkedin.com/in/markomaciell/) [
+   ! [Crachá do Instagram] (https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maciel_marko/)
+   ](https://www.instagram.com/maciel_marko/) 
 </div>
     
 <h3 align="center"> Obrigado pela sua visita! :wave: </h3>
