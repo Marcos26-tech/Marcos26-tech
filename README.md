@@ -30,7 +30,7 @@
 <h3 align="center"> Obrigado pela sua visita! :wave: </h3>
 
 <div align="center">
-### Stats and Languages:
+<h1 align="center">Stats and Languages:</h1>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
 </div>
  
