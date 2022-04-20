@@ -1,4 +1,4 @@
-<img align="right" src="./imagem/ani.gif" width="200" background="transparent"/>
+<img align="right" src="./imagem/ani.gif" width="200" />
 
 <h2 align="center"> :earth_americas: Hello World, sou o Marcos! :earth_americas:</h2>
 
