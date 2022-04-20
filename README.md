@@ -20,15 +20,7 @@
 </p>
 
 <h3 align="center"> :pushpin: Entre em contato: </h3>
-<div align="center">
-    
-[! [Crachá do Linkedin] (https://img.shields.io/badge/LINKEDIN--0077b5?style=for-the-badge&logo=linkedin&logoColor=0077b5)] (https://www.linkedin.com/in/gustavo-yamashita/) &nbsp;
-[! [Crachá do Gmail] (https://img.shields.io/badge/GMAIL--ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&link=mailto:gustavoyamashita49@gmail.com)] (mailto:gustavoyamashita49@gmail.com) &nbsp;
-[! [Crachá do Instagram] (https://img.shields.io/badge/INSTAGRAM--e4405f?style=for-the-badge&logo=instagram&logoColor=e4405f)] (https://www.instagram.com/gusss_y/) &nbsp;
-[! [Crachá do Spotify] (https://img.shields.io/badge/SPOTIFY--1ed760?style=for-the-badge&logo=spotify&logoColor=1ed760)] (https://open.spotify.com/user/21ktob77yxy2k5b3bshmmz77i?si=1ba17026500e4089) &nbsp;
-[! [Crachá de vapor] (https://img.shields.io/badge/STEAM--17405b?style=for-the-badge&logo=steam&logoColor=17405b)] (https://steamcommunity.com/profiles/76561198157969260/) &nbsp;
 
-</div>
     
 <h3 align="center"> Obrigado pela sua visita! :wave: </h3>
 
