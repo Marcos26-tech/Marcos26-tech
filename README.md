@@ -9,7 +9,7 @@
    <li> 💻 Amo escutar <strong>música</strong>;</li>
    <li> ✨ Gosto de jogar <strong>videogame</strong>;</li>
 </ul>
-
+<br>
 <h3 align="center"> :heavy_check_mark: Tecnologias e Ferramentas: </h3>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="30"/>&emsp;
