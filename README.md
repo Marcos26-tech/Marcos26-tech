@@ -2,8 +2,6 @@
 
 <h2 align="center"> :earth_americas: Hello World, sou o Marcos! :earth_americas:</h2>
 
-<>
-
 <h3> :fallen_leaf: Um pouco sobre mim: </h3>
 
 <!-- Gameboy: <img align="right" src="https://i.pinimg.com/originals/99/f3/4b/99f34ba8bba634ec75b26b56a207e489.gif" height="200"/> -->
@@ -15,8 +13,6 @@
    <li> :fones de ouvido: Amo escutar <strong>música</strong>;</li>
    <li> :video_game: Gosto de jogar <strong>videogame</strong>;</li>
 </ul>
-
-<>
 
 <h3 align="center"> :heavy_check_mark: Tecnologias e Ferramentas: </h3>
 <p align="center">
@@ -35,18 +31,18 @@
 
 <div align="center">
     
-[! [Crachá do Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markomaciell/)] (https://www.linkedin.com/in/markomaciell/) &nbsp;
+   [! [Crachá do Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markomaciell/)] (https://www.linkedin.com/in/markomaciell/) &nbsp;
 
-[! [Crachá do Instagram] (https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maciel_marko/)
-](https://www.instagram.com/maciel_marko/) &nbsp;
-  
-[! [Crachá do Gmail] (https://img.shields.io/badge/GMAIL--ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&link=mailto:markomaciell@gmail.com)] (mailto:markomaciell@gmail.com) &nbsp;
+   [! [Crachá do Instagram] (https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maciel_marko/)
+   ](https://www.instagram.com/maciel_marko/) &nbsp;
+
+   [! [Crachá do Gmail] (https://img.shields.io/badge/GMAIL--ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&link=mailto:markomaciell@gmail.com)] (mailto:markomaciell@gmail.com) &nbsp;
 
 </div>
     
 <>
 
-<h3 alinhar="centro", > Obrigado pela sua visita! :wave: </h3>
+<h3 align="center"> Obrigado pela sua visita! :wave: </h3>
 
 ### Stats and Languages:
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
