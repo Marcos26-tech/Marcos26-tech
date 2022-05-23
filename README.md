@@ -1,6 +1,6 @@
-<img align="right" src="./imagem/ani.gif" width="250" />
 
 <h2 align="center"> :earth_americas: Hello World, sou o Marcos! :earth_americas:</h2>
+<img align="right" src="./imagem/ani.gif" width="250" />
 
 <h3> :fallen_leaf: Um pouco sobre mim: </h3>
 
