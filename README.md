@@ -1,4 +1,4 @@
-<h2 align="center"> <img align="center" margin-right="10" src="./imagem/world.gif" width="25" />Hello World, sou o Marcos Maciel! <img align="center" margin-left="10" src="./imagem/world.gif" width="25" /></h2>
+<h2 align="center"> <img align="center" margin-right="10" src="./imagem/world.gif" width="45" />Hello World, sou o Marcos Maciel! <img align="center" margin-left="10" src="./imagem/world.gif" width="45" /></h2>
 
 <div display="flex">
 
@@ -62,9 +62,9 @@ alt="marcos maciel" height="30" width="40" /></a>
 
 <h1 align="center">Stats and Languages:</h1>
 <div display="flex" align="center">
-<img margin="1rem" height="150em"
+<img margin-right="25" height="150em"
 src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula" />
-<img margin="1rem" height="150em"
+<img margin-left="25" height="150em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula" />
 <div />
 
