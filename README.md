@@ -1,4 +1,4 @@
-<h2 align="center"> <img  align="center" src="./imagem/world.gif" width="25" />Hello World, sou o Marcos Maciel! <img  align="right" src="./imagem/world.gif" width="25" /></h2>
+<h2 align="center"> <img align="center" margin-right="10" src="./imagem/world.gif" width="25" />Hello World, sou o Marcos Maciel! <img align="center" margin-left="10" src="./imagem/world.gif" width="25" /></h2>
 
 <div display="flex">
 
