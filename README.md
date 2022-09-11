@@ -1,17 +1,18 @@
 
 <h2 align="center"> :earth_americas: Hello World, sou o Marcos Maciel! :earth_americas:</h2>
-   <div display="flex">
-      <img float="right" src="./imagem/ani.gif" width="250"/>
 
-      <h3> :fallen_leaf: Um pouco sobre mim: </h3>
+<div display="flex">
+<img src="./imagem/ani.gif" width="250"/>
+<h3> :fallen_leaf: Um pouco sobre mim: </h3>
 
-      <ul>
-         <li> 🚀 Estou sempre em busca da minha melhor versão;</li>
-         <li> 💻 Apaixona por desenvolvimento Front end e criação protótipos</li>
-         <li> 🎧 Amo escutar <strong>música</strong</li>
-         <li> 🎮 Gosto de jogar <strong>videogame</strong></li>
-      </ul>
-   <div/>
+<ul>
+<li> 🚀 Estou sempre em busca da minha melhor versão;</li>
+<li> 💻 Apaixona por desenvolvimento Front end e criação protótipos</li>
+<li> 🎧 Amo escutar <strong>música</strong</li>
+<li> 🎮 Gosto de jogar <strong>videogame</strong></li>
+</ul>
+<div/>
+
 <br>
 <h3 align="center"> :heavy_check_mark: Tecnologias e Ferramentas: </h3>
 <p align="center"> 
