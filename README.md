@@ -2,7 +2,6 @@
 
 <div display="flex">
 
-<div align="left">
 <h3> :fallen_leaf: Um pouco sobre mim: </h3>
 
 <ul>
@@ -10,10 +9,9 @@
 <li> 💻 Apaixona por desenvolvimento Front end e criação protótipos</li>
 <li> 🎧 Amo escutar <strong>música</strong</li> <li> 🎮 Gosto de jogar <strong>videogame</strong></li>
 </ul>
-</div>
-<div align="right">
-<img src="./imagem/ani.gif" width="250" />
-</div>
+
+<img  align="right" src="./imagem/ani.gif" width="250" />
+
 </div>
 
 <br>
