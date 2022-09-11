@@ -7,7 +7,7 @@
 <ul>
    <li> 🚀 Estou sempre em busca da minha melhor versão;</li>
    <li> 💻 Apaixona por desenvolvimento Front end e criação protótipos</li>
-   <li> <img widht="10px"  src="https://user-images.githubusercontent.com/79977492/189508631-0fa4a9c9-7e9b-488f-be66-4a8aa4f8dc48.png" alt="Minha Figura"> Amo escutar <strong>música</strong</li>
+   <li> <img max-width:"2%!important" src="https://user-images.githubusercontent.com/79977492/189508631-0fa4a9c9-7e9b-488f-be66-4a8aa4f8dc48.png" alt="Minha Figura">  Amo escutar <strong>música</strong</li>
    <li> ✨ Gosto de jogar <strong>videogame</strong>;</li>
 </ul>
 <br>
