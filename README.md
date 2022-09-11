@@ -2,6 +2,7 @@
 
 <div display="flex">
 
+<div align="left">
 <h3> :fallen_leaf: Um pouco sobre mim: </h3>
 
 <ul>
@@ -9,9 +10,10 @@
 <li> 💻 Apaixona por desenvolvimento Front end e criação protótipos</li>
 <li> 🎧 Amo escutar <strong>música</strong</li> <li> 🎮 Gosto de jogar <strong>videogame</strong></li>
 </ul>
-
-
-<img align="right" src="./imagem/ani.gif" width="250" />
+</div>
+<div align="right">
+<img src="./imagem/ani.gif" width="250" />
+</div>
 </div>
 
 <br>
@@ -69,7 +71,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tec
 <div />
 
 ## Visitors:
-<p align="left"><img
+<p align="center"> <img
 src="https://komarev.com/ghpvc/?username=Marcos26-tech&label=Profile%20views&color=0e75b6&style=flat"
 alt="marcos maciel" /> </p>
 
