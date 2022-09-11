@@ -6,7 +6,8 @@
 
 <ul>
    <li> 🚀 Estou sempre em busca da minha melhor versão;</li>
-   <li> 💻 Amo escutar <strong>música</strong>;</li>
+   <li> 💻 Apaixona por desenvolvimento Front end e criação protótipos</li>
+   <li> ![fones-de-ouvido](https://user-images.githubusercontent.com/79977492/189508631-0fa4a9c9-7e9b-488f-be66-4a8aa4f8dc48.png)Amo escutar<strong>música</strong</li>
    <li> ✨ Gosto de jogar <strong>videogame</strong>;</li>
 </ul>
 <br>
@@ -38,8 +39,8 @@
 
 <h1 align="center">Stats and Languages:</h1>
 <div display="flex" align="center">
-   <img style="margin="1em !important"; height="150em" " src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/>
-   <img style="margin="1em !important" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
 <div/>
 
 ## Visitors:
