@@ -1,9 +1,7 @@
-
 <h2 align="center"> :earth_americas: Hello World, sou o Marcos Maciel! :earth_americas:</h2>
 
-<div display="flex" align="center">
+<div display="flex">
 
-<div display="block" align="left">
 <h3> :fallen_leaf: Um pouco sobre mim: </h3>
 
 <ul>
@@ -11,11 +9,10 @@
 <li> 💻 Apaixona por desenvolvimento Front end e criação protótipos</li>
 <li> 🎧 Amo escutar <strong>música</strong</li> <li> 🎮 Gosto de jogar <strong>videogame</strong></li>
 </ul>
+
+
+<img align="right" src="./imagem/ani.gif" width="250" />
 </div>
-<div display="block" align="right">
-<img src="./imagem/ani.gif" width="250" />
-</div>
-</div>   
 
 <br>
 <h3 align="center"> :heavy_check_mark: Tecnologias e Ferramentas: </h3>
@@ -56,8 +53,8 @@ alt="vuejs" width="40" height="40" /> </a> </p>
 <h3 align="center"> :pushpin: Entre em contato: </h3>
 <div align="center">
 <a href="mailto:markomaciell@gmail.com" target="blank"><img align="center"
-src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-alt="marcos maciel" height="30" width="40" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="marcos maciel"
+height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/markomaciell/" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 alt="marcos maciel" height="30" width="40" /></a>
@@ -72,9 +69,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tec
 <div />
 
 ## Visitors:
-<p align="left"> <img
+<p align="left"><img
 src="https://komarev.com/ghpvc/?username=Marcos26-tech&label=Profile%20views&color=0e75b6&style=flat"
-alt="cristineacocella" /> </p>
+alt="marcos maciel" /> </p>
 
 <br>
 <h3 align="center"> Obrigado pela sua visita! :wave: </h3>
