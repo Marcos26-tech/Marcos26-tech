@@ -38,8 +38,8 @@
 
 <h1 align="center">Stats and Languages:</h1>
 <div display="flex" align="center">
-   <img style="margin="1em"; height="150em" " src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/>
-   <img style="margin=1em; height=150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
+   <img style="margin="1em !important"; height="150em" " src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/>
+   <img style="margin="1em !important" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
 <div/>
 
 ## Visitors:
