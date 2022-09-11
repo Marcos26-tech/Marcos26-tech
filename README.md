@@ -10,7 +10,7 @@
 <li> 🎧 Amo escutar <strong>música</strong</li> <li> 🎮 Gosto de jogar <strong>videogame</strong></li>
 </ul>
 
-<img  align="right" background-color="transparent" src="./imagem/ani.gif" width="250" />
+<img  align="right" background-color:"transparent !important" src="./imagem/ani.gif" width="250" />
 
 </div>
 
