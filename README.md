@@ -34,12 +34,12 @@
 <div align="center">
      <a href="mailto:markomaciell@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="marcos maciel" height="30" width="40" /></a>
    <a href="https://www.linkedin.com/in/markomaciell/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos maciel" height="30" width="40" /></a>
-</div>
+
 
 <h1 align="center">Stats and Languages:</h1>
 <div display="flex" align="center">
-   <img height="150em" margin="2rem" src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/>
-   <img height="150em" margin="2rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
+   <img height="150em" padding="1em" src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=dracula"/>
+   <img height="150em" padding="1em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula"/>
 <div/>
 
 ## Visitors:
@@ -47,3 +47,4 @@
    
 <br>
 <h3 align="center"> Obrigado pela sua visita! :wave: </h3>   
+</div>
