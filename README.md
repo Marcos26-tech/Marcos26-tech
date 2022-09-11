@@ -7,7 +7,7 @@
 <ul>
    <li> 🚀 Estou sempre em busca da minha melhor versão;</li>
    <li> 💻 Apaixona por desenvolvimento Front end e criação protótipos</li>
-   <li> <a height="1em"  href="https://www.flaticon.com/br/icones-gratis/fones-de-ouvido" title="fones de ouvido ícones"></a> Amo escutar <strong>música</strong</li>
+   <li> 🎧 Amo escutar <strong>música</strong</li>
    <li> ✨ Gosto de jogar <strong>videogame</strong>;</li>
 </ul>
 <br>
