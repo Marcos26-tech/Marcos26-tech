@@ -3,7 +3,7 @@
 
 <div display="flex" align="center">
 
-<div display="block" align="center">
+<div display="block" align="left">
 <h3> :fallen_leaf: Um pouco sobre mim: </h3>
 
 <ul>
@@ -12,7 +12,7 @@
 <li> 🎧 Amo escutar <strong>música</strong</li> <li> 🎮 Gosto de jogar <strong>videogame</strong></li>
 </ul>
 </div>
-<div display="block" align="center">
+<div display="block" align="right">
 <img src="./imagem/ani.gif" width="250" />
 </div>
 </div>   
