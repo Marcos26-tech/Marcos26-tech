@@ -68,6 +68,8 @@ src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icon
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula" />
 <div />
 
+<img src="https://raw.githubusercontent.com/Marcos26-tech/Marcos26-tech/output/snake.svg" alt="Snake animation" />
+
 ## Visitors:
 <p align="center"> <img
 src="https://komarev.com/ghpvc/?username=Marcos26-tech&label=Profile%20views&color=0e75b6&style=flat"
