@@ -68,7 +68,11 @@ src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icon
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&theme=dracula" />
 <div />
 
-![snake animation](https://github.com/<Marcos26-tech>/<Marcos26-tech>/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+
+<img src="https://github.com/Marcos26-tech/Marcos26-tech/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
 
 ## Visitors:
 <p align="center"> <img
