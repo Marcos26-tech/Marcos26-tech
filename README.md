@@ -23,7 +23,7 @@
 
 ### 🛠️ Habilidades e Tecnologias
 
-<p align="center" class="tech-icons">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -41,12 +41,11 @@
 
 ### 📈 Stats e Atividades Recentes
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos26-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub Marcos" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos26-tech&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos26-tech&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcos26-tech&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+</p>
 
 ---
 
